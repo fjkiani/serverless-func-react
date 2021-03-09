@@ -3,7 +3,7 @@ import Airtable from './Airtable'
 function App() {
   return (
     <>
-      <Basic />
+      <Basic/>
       <Airtable />
     </>
   )
